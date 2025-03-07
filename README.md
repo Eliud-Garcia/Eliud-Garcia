@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-## Competitive programming Profiles
+## My Profiles
 <p align="center">
   <a href="https://codeforces.com/profile/EliudGarcia"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="codeforces"/></a>
 	<a href="https://leetcode.com/u/jhonniereliudgarciacapera/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
