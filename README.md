@@ -15,7 +15,7 @@ Thanks for visiting my profile and checking out what I'm working on!
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/EliudGarcia)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/eliudgarcia27/)
-
+[![CSES](https://img.shields.io/badge/CSES-1755A3?style=for-the-badge&logo=terminal&logoColor=white)](https://cses.fi/user/172765)
 
 **Connect with me**
 
