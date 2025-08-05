@@ -1,24 +1,25 @@
 
 ## About me
 
-¡Hola! Soy Eliud García, estudiante de ingeniería de sistemas con interés en la creación de soluciones tecnológicas útiles y accesibles. Actualmente me encuentro aprendiendo y fortaleciendo mis habilidades en programación, especialmente en estructuras de datos y algoritmos para programación competitiva.
+Hello! I'm Eliud García, a Systems Engineering student passionate about creating useful and accessible technological solutions. I am currently learning and strengthening my programming skills, especially in data structures and algorithms for competitive programming.
 
-📚 Como estudiante, estoy en constante formación, explorando nuevas herramientas, buenas prácticas y metodologías como el desarrollo ágil.
+📚 As a student, I'm constantly learning, exploring new tools, best practices, and methodologies like agile development.
 
-🛠️ En este espacio comparto algunos de mis proyectos personales, prácticas académicas y experimentos de código mientras avanzo en mi camino como desarrollador.
+🛠️ Here, I share some of my personal projects, academic work, and code experiments as I advance on my journey as a developer.
 
-🚀 Me motiva la idea de crear software que tenga un impacto real en la educación, la ciencia o la vida diaria. También me interesa colaborar en proyectos que me permitan seguir aprendiendo.
+🚀 I'm motivated by the idea of creating software that makes a real impact in education, science, or daily life. I'm also interested in collaborating on projects that allow me to keep learning.
 
-¡Gracias por visitar mi perfil y ver en lo que estoy trabajando!
+Thanks for visiting my profile and checking out what I'm working on!
 
-## My profiles
-<p align="center">
-  <a href="https://codeforces.com/profile/EliudGarcia"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="codeforces"/></a>
-	<a href="https://leetcode.com/u/eliudgarcia27/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<!-- <a href="https://www.freecodecamp.org/Eliud-Garcia27"><img src="https://github.com/Eliud-Garcia/Eliud-Garcia/blob/main/fcc_icon.png" alt="freecodecamp"/></a> -->
-</p>
+**My competitive programming profiles**
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/EliudGarcia)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/eliudgarcia27/)
 
 
+**Connect with me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliud-garcia99/)
 
 
 <!--
