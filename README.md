@@ -3,11 +3,7 @@
 
 Hello! I'm Eliud García, a Systems Engineering student passionate about creating useful and accessible technological solutions. I am currently learning and strengthening my programming skills, especially in data structures and algorithms for competitive programming.
 
-📚 As a student, I'm constantly learning, exploring new tools, best practices, and methodologies like agile development.
-
 🛠️ Here, I share some of my personal projects, academic work, and code experiments as I advance on my journey as a developer.
-
-🚀 I'm motivated by the idea of creating software that makes a real impact in education, science, or daily life. I'm also interested in collaborating on projects that allow me to keep learning.
 
 Thanks for visiting my profile and checking out what I'm working on!
 
